@@ -51,9 +51,7 @@ const skillsSection = {
     emoji(
       "⚡ Build interactive and responsive Front End / User Interfaces using React.js"
     ),
-    emoji(
-      "⚡ Develop robust Backend APIs with Flask, Node.js, and Express.js"
-    ),
+    emoji("⚡ Develop robust Backend APIs with Flask, Node.js, and Express.js"),
     emoji(
       "⚡ Integrate databases like MySQL and MongoDB for seamless data management"
     )
@@ -275,7 +273,8 @@ const achievementSection = {
       ]
     },
     {
-      title: "NPTEL: Object Oriented System Development using UML, Java and Patterns",
+      title:
+        "NPTEL: Object Oriented System Development using UML, Java and Patterns",
       subtitle:
         "Completed NPTEL certification in Object Oriented System Development using UML, Java and Patterns.",
       image: require("./assets/images/nptel.png"),

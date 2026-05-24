@@ -37,8 +37,5 @@ To run this project locally:
    npm start
    ```
 
-## 📄 License
-This project is forked from [developerFolio](https://github.com/saadpasta/developerFolio) and modified for personal use.
-
 ---
 Created by [Sai Vighnesh Pasupuleti](https://github.com/SaiVighnesh811)

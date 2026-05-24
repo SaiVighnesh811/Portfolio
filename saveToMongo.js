@@ -17,7 +17,14 @@ if (!MONGO_URI) {
 const projects = [
   {
     projectName: "Chat Translator Application",
-    techStack: ["HTML", "CSS", "JavaScript", "Python", "Flask-SocketIO", "Translator API"],
+    techStack: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "Flask-SocketIO",
+      "Translator API"
+    ],
     description:
       "A real-time multilingual chat application enabling seamless communication between users of different languages with automatic translation of messages and synchronized delete functionality.",
     features: [
